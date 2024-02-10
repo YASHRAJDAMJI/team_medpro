@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282890930749",
+    "project_id": "medprooo",
+    "storage_bucket": "medprooo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282890930749:android:44e86df449e7d9bc4d3854",
+        "android_client_info": {
+          "package_name": "com.teammedpro.medpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCdPcWQ3FXnwPSAVZGiA0E1GHMu2cLVmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
